@@ -1,0 +1,7 @@
+0dc2a5ce242554f26f6c997ae2bec4f0 *DESCRIPTION
+a9028b7cd3b8fa688126bcd8548f9bca *NAMESPACE
+069890da93821befe09ca72115f505d3 *R/allelic.exact.test.R
+532a059407e4548f94b1127f4b9e9123 *man/allelic.exact.test.Rd
+99b6bdfd2bc8261ea8df453dab839244 *src/newallelic.c
+0c9fa0dcaddddce8944003e8eb9e19b1 *tests/simple.R
+367cfec8598e59f8ddeb47cf744df848 *tests/test1.R
